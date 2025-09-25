@@ -17,13 +17,24 @@ body {
   background-color: #888888
 }
 h1 {
-  font-family: 'Times New Roman', Times, serif;
-  color: darkolivegreen;
+  background-color: whitesmoke;
+  font-family: 'Bakerville', cursive;
+  font-size: 100px;
+  color: #BC8F8F;
   text-align: center;
 }
 
 h2 {
+  background-color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
+  color: #BC8F8F;
+  text-align: center;
+}
+
+p {
+  background-color: whitesmoke;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
   color: #BC8F8F;
   text-align: center;
 }
