@@ -12,8 +12,21 @@
    ========================================================================== */
 
 html {
-  color: #4682B4
 
+body {
+  background-color: #888888
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  color: darkolivegreen;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color: #BC8F8F;
+  text-align: center;
+}
 ;
   font-size: 1em;
   line-height: 1.4;
