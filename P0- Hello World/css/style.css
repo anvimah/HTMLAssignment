@@ -14,30 +14,40 @@
 html {
 
 body {
-  background-color: #888888
+  background-color: lightcoral;
 }
 h1 {
-  background-color: whitesmoke;
+  background-color: #FFEBCD;
   font-family: 'Bakerville', cursive;
   font-size: 100px;
-  color: #BC8F8F;
+  color: #FFA500;
   text-align: center;
 }
 
 h2 {
-  background-color: whitesmoke;
+  background-color: lightcoral;
   font-family: 'Times New Roman', Times, serif;
-  color: #BC8F8F;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #FFA500;
   text-align: center;
 }
 
 p {
-  background-color: whitesmoke;
+  background-color: lightcoral;
   font-family: 'Times New Roman', Times, serif;
   font-size: medium;
-  color: #BC8F8F;
+  color: #FFA500;
   text-align: center;
 }
+  div {
+    text-align: center; /* Gör att inline-element (som img) hamnar i mitten */
+  }
+
+  .element {
+    max-width: fit-content;
+    margin-inline: auto;
+  }
 ;
   font-size: 1em;
   line-height: 1.4;
